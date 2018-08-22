@@ -1,0 +1,7 @@
+
+# Creating an array with characters
+
+from numpy import *
+
+arr= array(['delhi','mumbai', 'jaipur'], dtype = str)
+print(arr)
